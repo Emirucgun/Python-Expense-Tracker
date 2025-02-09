@@ -1,0 +1,6 @@
+2025-02-01 12.50 FOOD "Lunch at McDonald's"
+2025-02-01 3.20 TRANSPORT "Bus ticket"
+2025-02-02 8.90 ENTERTAINMENT "Movie night"
+2025-02-02 15.00 FOOD "Dinner at a restaurant"
+2025-02-03 45.00 SHOPPING "New shoes"
+2025-02-03 2.50 TRANSPORT "Metro ticket"
